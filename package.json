@@ -1,7 +1,7 @@
 {
   "name": "aio.css",
   "version": "0.1.0",
-  "description": "css",
+  "description": "Css framework",
   "main": "aio.css",
   "style": "aio.css",
   "files": [
