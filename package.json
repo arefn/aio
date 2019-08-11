@@ -1,0 +1,13 @@
+{
+  "name": "aio.css",
+  "version": "0.1.0",
+  "description": "css",
+  "main": "aio.css",
+  "style": "aio.css",
+  "files": [
+    "LICENSE.md",
+    "aio.css"
+  ],
+  "repository": "arefn/aio.git",
+  "license": "MIT",
+}
