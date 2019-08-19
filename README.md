@@ -1,10 +1,10 @@
 # aio
- CSS framework 
+ CSS framework
  ### V0.2.0 Beta
 
 #### Table of contents
 + Normalize
-+ Component:_Base
++ Component:Base
 + Links
 + Text
 + Embedded_content
